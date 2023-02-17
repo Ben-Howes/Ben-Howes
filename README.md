@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD Student at Imperial College London working on Macroecology and Community Ecology, specifically looking at how deforesation impacts ecological communities.
+
 <!--
 **Ben-Howes/Ben-Howes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
